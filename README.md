@@ -41,4 +41,5 @@
 
 ---
 
-자세한 결과는 [최종 보고서](./서울 날씨 변화 분석(1994-2024).pdf)를 참고해주세요.
+자세한 결과는 [최종 보고서](
+https://raw.githubusercontent.com/dev-jhjoo/SeoulWeatherAnalysis/refs/heads/main/%EC%84%9C%EC%9A%B8%20%EB%82%A0%EC%94%A8%20%EB%B3%80%ED%99%94%20%EB%B6%84%EC%84%9D(1994-2024).pdf)를 참고해주세요.
